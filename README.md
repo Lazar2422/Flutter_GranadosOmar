@@ -61,7 +61,7 @@ Para ejecutar cualquier proyecto:
 
 ```bash
 git clone https://github.com/Lazar2422/Flutter_GranadosOmar
-cd flutter_apps/flutter
+cd flutter/<nombre_proyecto>
 ```
 
 2. Instalar dependencias:
