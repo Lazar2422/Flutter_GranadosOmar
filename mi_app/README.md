@@ -15,8 +15,8 @@ Esta es una aplicación sencilla de **lista de tareas (To-Do List)** desarrollad
 
 1. Clonar este repositorio:
 ``` bash
-    git clone https://github.com/tuusuario/todolist-flutter.git
-    cd todolist-flutter
+    git clone https://github.com/Lazar2422/Flutter_GranadosOmar
+    cd mi_app
 ```
 2. Instalar dependencias:
 ``` bash
